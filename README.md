@@ -7,7 +7,9 @@
 
 ## Download
 ### VMOS Pro Chinese MOD
-[v1.2.3](http://link1s.com/Bkf3nr) arm64 (23MB)
+[v1.2.3](http://link1s.com/Bkf3nr) arm64 only (23MB)
+
+[v1.2.2](http://link1s.com/XxWLAb) stable (23MB)
 
 [v1.1.37](http://link1s.com/4SKWo) (34MB)
 
