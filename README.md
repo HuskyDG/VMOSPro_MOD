@@ -6,6 +6,9 @@
 
 ## Download
 ### Chinese version
+
+[v1.3.1](https://link1s.com/VMOSPROMOD131) 64bit - 23MB
+
 [v1.2.3](http://link1s.com/Bkf3nr) 64bit - 23MB
 
 [v1.2.2](http://link1s.com/XxWLAb) stable - 23MB
