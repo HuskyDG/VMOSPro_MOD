@@ -7,15 +7,22 @@
 ## Download
 ### Chinese version
 
-[v1.3.1](https://link1s.com/VMOSPROMOD131) 64bit - 23MB
+**Test version**: If you device doesn't support 64bit, the installation will be failed. Please download Stable version.
 
-[v1.2.3](http://link1s.com/Bkf3nr) 64bit - 23MB
+[v1.3.2](https://link1s.com/VMOSPROMOD132)
 
-[v1.2.2](http://link1s.com/XxWLAb) stable - 23MB
+[v1.2.3](http://link1s.com/Bkf3nr)
 
-[v1.1.37](http://link1s.com/4SKWo) stable - 34MB
+**Stable version**
+
+[v1.2.2](http://link1s.com/XxWLAb)
+
+[v1.1.37](http://link1s.com/4SKWo)
 
 ### Global version
-[v1.0.3](http://link1s.com/VrWJ0) stable - 788MB
 
-[v1.0.0](http://link1s.com/0WK7) stable - 44MB
+**Stable version**
+
+[v1.0.3](http://link1s.com/VrWJ0)
+
+[v1.0.0](http://link1s.com/0WK7)
