@@ -9,7 +9,7 @@
 
 **Test version**: If you device doesn't support 64bit, the installation will be failed. Please download Stable version.
 
-[v1.3.2](https://link1s.com/VMOSPROMOD132)
+[v1.3.2](https://link1s.com/VMOSMOD132)
 
 1. Fix the problem of loss of Root permissions;
 2. Optimize login status issues;
