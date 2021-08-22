@@ -51,6 +51,4 @@
 
 **Stable version**
 
-[v1.0.3](http://link1s.com/VrWJ0)
-
-[v1.0.0](http://link1s.com/0WK7)
+[v1.0.3](http://link1s.com/VrWJ0) | [v1.0.0](http://link1s.com/0WK7)
