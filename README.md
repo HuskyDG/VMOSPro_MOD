@@ -9,7 +9,7 @@
 ### Global version
 **Test version**: If you device doesn't support 64bit, the installation will be failed. Please download Stable version.
 
-[v1.4](https://link1s.com/VMOSMOD_V1-4) 
+[v1.4.0](https://link1s.com/VMOSMOD_V1-4) 
 
 1. Solve the problem of slow statistics of virtual machine information when the single view is not turned on;
 2. Solve the problem of the loss of root permissions for some models;
