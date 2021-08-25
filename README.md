@@ -5,6 +5,27 @@
 <img src="https://i.postimg.cc/jjmtW39r/IMG-20210524-192417.jpg" width="33%"/><img src="https://i.postimg.cc/mL1bxRzZ/IMG-20210524-192341.jpg" width="33%"/><img src="https://i.postimg.cc/09Z5DV1v/IMG-20210524-192401.jpg" width="33%"/>
 
 ## Download
+
+### Global version
+**Test version**: If you device doesn't support 64bit, the installation will be failed. Please download Stable version.
+
+[v1.4](https://link1s.com/VMOSMOD_V1-4) 
+
+1. Solve the problem of slow statistics of virtual machine information when the single view is not turned on;
+2. Solve the problem of the loss of root permissions for some models;
+3. Solve the problem of being cleaned up in the background of some models;
+4. Solve the problem of inaccurate touch in different resolutions in penetration mode;
+5. Fix the disappearance of floating ball in some models;
+6. Optimize the display of rounded corners of single-view cards;
+7. Optimize the penetration mode, click the penetration mode in the multi-view mode, you can quickly enter the penetration mode;
+8. Optimize the loading speed of forums and common tools.
+
+
+**Stable version**
+
+[v1.0.3](http://link1s.com/VrWJ0) | [v1.0.0](http://link1s.com/0WK7)
+
+
 ### Chinese version
 
 **Test version**: If you device doesn't support 64bit, the installation will be failed. Please download Stable version.
@@ -46,9 +67,3 @@
 19. Solve the problem of unavailability for mobile users in Chongqing area;
 
 [v1.1.37](http://link1s.com/4SKWo)
-
-### Global version
-
-**Stable version**
-
-[v1.0.3](http://link1s.com/VrWJ0) | [v1.0.0](http://link1s.com/0WK7)
