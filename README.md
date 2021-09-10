@@ -11,3 +11,6 @@ Modded by GuanYinLITE
 Download from **Releases** tag bellow 👇
 
 [All releases](https://github.com/HuskyDG/VMOSPro_MOD/releases)
+
+Please uninstall original version of app before install modified one.
+Overwise the installation will fail.
