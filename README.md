@@ -9,3 +9,5 @@ Modded by GuanYinLITE
 ## Download
 
 Download from **Releases** tag bellow 👇
+
+[All releases](https://github.com/HuskyDG/VMOSPro_MOD/releases)
