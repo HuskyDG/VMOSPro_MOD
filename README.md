@@ -1,6 +1,8 @@
 
 ## Premium features unlocked
-Modded by GuanYinLITE
+Modded by [GuanYinLITE](https://youtube.com/c/GuanYinLITE)
+
+> GuanyinLite have stopped share his mods 
 
 <ul><li>Enable Root/Xposed</li><li>Unlimited virtual machine are created</li><li>Unlimited virtual machine run in background</li><li>Change boot animation</li><li>No advertisement</li></ul>
 
